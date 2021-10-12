@@ -12,9 +12,13 @@
 Answer : echo "Hello from the command line."
 
 2. Write the command (or commands) that will create a file named 'hello-world.txt'.
+
 Answer : touch hello-world.txt
 
 3. Write the command (or commands) that will create a folder named 'my-new-folder' in _current_ directory.
+
+Answer: mkdir my-new-folder
+
 
 4. Write the command (or commands) that will attempt to delete a folder named 'my-nonexistent-folder' and display the following message when the commands _fails_: 'Whoops, cannot delete a folder that does not exist'.
 
